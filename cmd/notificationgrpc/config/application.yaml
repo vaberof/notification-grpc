@@ -1,0 +1,5 @@
+app:
+  grpc:
+    server:
+      host: localhost
+      port: 44045

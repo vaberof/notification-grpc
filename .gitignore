@@ -1,0 +1,4 @@
+.idea/
+
+/cmd/notificationgrpc/build
+/cmd/notificationgrpc/config/sample.env
